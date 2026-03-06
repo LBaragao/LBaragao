@@ -17,10 +17,10 @@ I am particularly interested in **data engineering, data analysis and automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-Integration%20Services-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Integration Services](https://img.shields.io/badge/Integration%20Services-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-0A66C2?style=for-the-badge)
 
 ## 🚀 Featured Projects
 
