@@ -1,32 +1,35 @@
-# Olá! Meu nome é Lucas!
+# Hello! I'm Lucas!
 
-Sou desenvolvedor com experiência em **dados, automação e BI**, com foco em evoluir cada vez mais na **área de dados**.
+Developer with experience in **data, automation and Business Intelligence**, currently focused on expanding my skills in the **data field**.
 
-Atualmente trabalho principalmente com:
+My professional background includes working with **SQL Server, SSIS and ETL processes**, building and optimizing data pipelines and supporting data-driven solutions.
 
-- SQL Server
-- SSIS
-- ETL e integração de dados
+Currently, I am **learning Python and building projects** focused on:
 
-No momento também estou **aprofundando meus conhecimentos em Python**, desenvolvendo projetos voltados para **automação, análise de dados, machine learning e inteligência artificial**.
+- Process automation
+- Data analysis
+- Machine learning
+- Artificial intelligence applications
 
-Tenho interesse em áreas como **engenharia de dados, análise de dados e automação**, buscando sempre aprender novas ferramentas e técnicas para transformar dados em soluções úteis.
+I am particularly interested in **data engineering, data analysis and automation**, always looking for new ways to transform data into practical and efficient solutions.
 
-## 💻 Tecnologias
+## 💻 Technologies
 
-- SQL Server  
-- SSIS  
-- Python  
-- Angular 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-Integration%20Services-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=for-the-badge)
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
-- Automação de processos com Python  
-- Análise de dados com Pandas  
-- Modelo de Machine Learning para previsão de score  
-- Chatbot utilizando Inteligência Artificial  
+- Process automation with Python  
+- Data analysis using Pandas  
+- Machine learning model for credit score prediction  
+- AI chatbot powered by artificial intelligence  
 
-## 📫 Onde me encontrar
+## 📫 Connect with me
 
 LinkedIn: www.linkedin.com/in/lucas-winkler-baragao  
 GitHub: https://github.com/LBaragao
