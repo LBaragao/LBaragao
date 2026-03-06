@@ -1,4 +1,4 @@
-# Olá! Eu sou o Lucas 👋
+# Olá! Meu nome é Lucas!
 
 Sou desenvolvedor com experiência em **dados, automação e BI**, com foco em evoluir cada vez mais na **área de dados**.
 
