@@ -12,6 +12,13 @@ No momento também estou **aprofundando meus conhecimentos em Python**, desenvol
 
 Tenho interesse em áreas como **engenharia de dados, análise de dados e automação**, buscando sempre aprender novas ferramentas e técnicas para transformar dados em soluções úteis.
 
+## 💻 Tecnologias
+
+- SQL Server  
+- SSIS  
+- Python  
+- Angular 
+
 ## 🚀 Projetos em destaque
 
 - Automação de processos com Python  
